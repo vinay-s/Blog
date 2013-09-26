@@ -1,0 +1,14 @@
+# JDBC executeBatch() method halts execution without errors when working with PostgreSQL
+
+##Contents
+* [Description] (#description)
+* [Environment] (#environment)
+* [Debugging] (#debugging)
+* [Conclusion] (#conclusion)
+
+<a name="description"/>
+## Description
+
+
+
+
